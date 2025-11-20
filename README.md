@@ -1,11 +1,11 @@
 
-# OOU_DTS201_Introduction_to_Data_Science
+# OOU_CMP805_Advanced_Programming_Languages
 
-Lecture note, Practical notebooks and mini-projects for DTS 201 – Introduction to Data Science (Olabisi Onabanjo University).
+Lecture note, Practical notebooks and mini-projects for CMP805_Advanced_Programming_Languages (Olabisi Onabanjo University).
 
 
-## DTS 201 Lecture Note (Google Docs)
-[https://docs.google.com/document/d/your-file-id](https://docs.google.com/document/d/1GoWb_x03bjTmQxxEhYeJJBNPrULVQnn5/edit?usp=sharing&ouid=105710993054316348094&rtpof=true&sd=true)
+## CMP 805 Lecture Note (Google Docs)
+
 
 
 
