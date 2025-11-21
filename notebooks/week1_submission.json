@@ -1,0 +1,11 @@
+{
+  "student_name": "OWOR PATRICK IKONGHA",
+  "student_id": "PG/25/0912",
+  "timestamp": "2025-11-21 07:15:50",
+  "checks": [
+    "ast1",
+    "ast2",
+    "ast3"
+  ],
+  "reflection": "1. working with AST makes parsing logic easier than if we had used raw strings and also more reliable\n  2.sepration of concern is very important so as to reduce the complexity of programming language during compiler design\n    - parsing: should check if it is a valid syntax\n    - AST: should create a structure of the code in a tree like data structure\n    - evaluation: should be about what code does\n  "
+}
