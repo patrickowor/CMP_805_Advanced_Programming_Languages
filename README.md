@@ -20,7 +20,7 @@ https://colab.research.google.com/github/Sakinat-Folorunso/CMP_805_Advanced_Prog
 
 ## Week 2 Syntax & parsing; binding, scope, and environments
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/Sakinat-Folorunso/CMP_805_Advanced_Programming_Languages/blob/main/notebooks/CMP805_Week2_PH_Python_Colab (1).ipynb)
+https://colab.research.google.com/github/Sakinat-Folorunso/CMP_805_Advanced_Programming_Languages/blob/main/notebooks/CMP805_Week2_PH_Python_Colab.ipynb)
 
 This repository contains AI practical notebooks for CMP 805.
 
