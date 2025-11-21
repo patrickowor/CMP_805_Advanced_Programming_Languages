@@ -34,6 +34,11 @@ https://colab.research.google.com/github/Sakinat-Folorunso/CMP_805_Advanced_Prog
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/Sakinat-Folorunso/CMP_805_Advanced_Programming_Languages/blob/main/notebooks/CMP805_Week5_PH_Python_Colab.ipynb)
 
+## Week 6 Functional programming — evaluation order (strict vs lazy), combinators & folds, property‑based tests
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/Sakinat-Folorunso/CMP_805_Advanced_Programming_Languages/blob/main/notebooks/CMP805_Week6_PH_Python_Colab.ipynb)
+
+
 
 This repository contains AI practical notebooks for CMP 805.
 
