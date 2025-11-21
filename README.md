@@ -22,6 +22,12 @@ https://colab.research.google.com/github/Sakinat-Folorunso/CMP_805_Advanced_Prog
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/Sakinat-Folorunso/CMP_805_Advanced_Programming_Languages/blob/main/notebooks/CMP805_Week2_PH_Python_Colab.ipynb)
 
+## Week 2 Formal Semantics I — Small‑step and Big‑step Evaluation; equivalence; determinism & progress
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/Sakinat-Folorunso/CMP_805_Advanced_Programming_Languages/blob/main/notebooks/CMP805_Week3_PH_Python_Colab.ipynb)
+
+
+
 This repository contains AI practical notebooks for CMP 805.
 
 
