@@ -54,6 +54,10 @@ https://colab.research.google.com/github/Sakinat-Folorunso/CMP_805_Advanced_Prog
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/Sakinat-Folorunso/CMP_805_Advanced_Programming_Languages/blob/main/notebooks/CMP805_Week10_PH_Python_Colab.ipynb)
 
+## Week 11 Implementation concerns — interpreters vs VMs; AOT/JIT; IR & semantics‑preserving transforms 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/Sakinat-Folorunso/CMP_805_Advanced_Programming_Languages/blob/main/notebooks/CMP805_Week11_PH_Python_Colab.ipynb)
+
 
 
 
