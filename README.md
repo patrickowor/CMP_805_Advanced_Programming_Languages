@@ -22,10 +22,13 @@ https://colab.research.google.com/github/Sakinat-Folorunso/CMP_805_Advanced_Prog
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/Sakinat-Folorunso/CMP_805_Advanced_Programming_Languages/blob/main/notebooks/CMP805_Week2_PH_Python_Colab.ipynb)
 
-## Week 2 Formal Semantics I — Small‑step and Big‑step Evaluation; equivalence; determinism & progress
+## Week 3 Formal Semantics I — Small‑step and Big‑step Evaluation; equivalence; determinism & progress
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/Sakinat-Folorunso/CMP_805_Advanced_Programming_Languages/blob/main/notebooks/CMP805_Week3_PH_Python_Colab.ipynb)
 
+## Week 4 Types & Soundness — Simply‑Typed λ‑Calculus (STLC) type checker; progress/preservation intuition
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/Sakinat-Folorunso/CMP_805_Advanced_Programming_Languages/blob/main/notebooks/CMP805_Week4_PH_Python_Colab.ipynb)
 
 
 This repository contains AI practical notebooks for CMP 805.
