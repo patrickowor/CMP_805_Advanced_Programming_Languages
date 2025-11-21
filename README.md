@@ -46,6 +46,10 @@ https://colab.research.google.com/github/Sakinat-Folorunso/CMP_805_Advanced_Prog
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/Sakinat-Folorunso/CMP_805_Advanced_Programming_Languages/blob/main/notebooks/CMP805_Week8_PH_Python_Colab.ipynb)
 
+## Week 9 Concurrency & parallelism — threads/locks, actors/channels; race‑conditions & deadlocks 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/Sakinat-Folorunso/CMP_805_Advanced_Programming_Languages/blob/main/notebooks/CMP805_Week9_PH_Python_Colab.ipynb)
+
 
 
 
