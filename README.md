@@ -30,6 +30,10 @@ https://colab.research.google.com/github/Sakinat-Folorunso/CMP_805_Advanced_Prog
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/Sakinat-Folorunso/CMP_805_Advanced_Programming_Languages/blob/main/notebooks/CMP805_Week4_PH_Python_Colab.ipynb)
 
+## Week 5 Polymorphism & Inference — Hindley–Milner (Algorithm W) with let‑polymorphism; intro to variance
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/Sakinat-Folorunso/CMP_805_Advanced_Programming_Languages/blob/main/notebooks/CMP805_Week5_PH_Python_Colab.ipynb)
+
 
 This repository contains AI practical notebooks for CMP 805.
 
