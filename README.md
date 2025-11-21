@@ -5,8 +5,7 @@ Lecture note, Practical notebooks and mini-projects for CMP805_Advanced_Programm
 
 
 ## CMP 805 Lecture Note (Google Docs)
-https://docs.google.com/document/d/1jXU5PHqY8LeLHYC4o7P4fcmSoJXK2ZKghmXkM0AgaX0/edit?tab=t.0
-
+https://docs.google.com/document/d/1X0r-n-pJGbrJlYuvzS-yu6DWzHBpq3emWfVw7kyiGRw/edit?tab=t.0
 
 
 ## 🧪 Practical Notebooks
