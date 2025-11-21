@@ -58,6 +58,10 @@ https://colab.research.google.com/github/Sakinat-Folorunso/CMP_805_Advanced_Prog
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/Sakinat-Folorunso/CMP_805_Advanced_Programming_Languages/blob/main/notebooks/CMP805_Week11_PH_Python_Colab.ipynb)
 
+## Week 12 Tutorial, metaprogramming/macros; project demos & revision 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/Sakinat-Folorunso/CMP_805_Advanced_Programming_Languages/blob/main/notebooks/CMP805_Week12_PH_Python_Colab.ipynb)
+
 
 
 
